@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.be5f3759.css","mappings":"AAAA,gBAQE,qBAAsB,CAFtB,WAAY,CAHZ,QAAS,CAIT,eAAgB,CAHhB,SAAU,CACV,UAIF","sources":["global.css"],"sourcesContent":["body,\r\nhtml,\r\n#root {\r\n  margin: 0;\r\n  padding: 0;\r\n  width: 100%;\r\n  height: 100%;\r\n  overflow: hidden;\r\n  box-sizing: border-box;\r\n}\r\n"],"names":[],"sourceRoot":""}
